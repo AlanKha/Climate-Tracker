@@ -1,0 +1,371 @@
+1,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0,34
+1,Chattanooga,Tennessee,CHA,0,40
+1,Clarksville,Tennessee,CKV,0,37
+1,Crossville,Tennessee,CSV,0,34
+1,Knoxville,Tennessee,TYS,0,36
+1,Memphis,Tennessee,MEM,0,40
+1,Nashville,Tennessee,BNA,0,39
+1,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.67,37
+1,Chattanooga,Tennessee,CHA,0.61,41
+1,Clarksville,Tennessee,CKV,0.85,36
+1,Crossville,Tennessee,CSV,0.94,37
+1,Knoxville,Tennessee,TYS,0.32,38
+1,Memphis,Tennessee,MEM,1.42,41
+1,Nashville,Tennessee,BNA,0.3,41
+1,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.5,32
+1,Chattanooga,Tennessee,CHA,0.28,38
+1,Clarksville,Tennessee,CKV,0.35,35
+1,Crossville,Tennessee,CSV,0.07,33
+1,Knoxville,Tennessee,TYS,0.44,35
+1,Memphis,Tennessee,MEM,0.05,42
+1,Nashville,Tennessee,BNA,0.37,37
+1,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,1.29,24
+1,Chattanooga,Tennessee,CHA,1.95,30
+1,Clarksville,Tennessee,CKV,0.75,24
+1,Crossville,Tennessee,CSV,1.77,24
+1,Knoxville,Tennessee,TYS,1.29,27
+1,Memphis,Tennessee,MEM,0.76,32
+1,Nashville,Tennessee,BNA,1.42,26
+1,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.46,35
+1,Chattanooga,Tennessee,CHA,0.83,44
+1,Clarksville,Tennessee,CKV,0.12,43
+1,Crossville,Tennessee,CSV,0.67,42
+1,Knoxville,Tennessee,TYS,0.71,42
+1,Memphis,Tennessee,MEM,0.04,49
+1,Nashville,Tennessee,BNA,0.08,45
+2,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,1.58,43
+2,Chattanooga,Tennessee,CHA,2.75,49
+2,Clarksville,Tennessee,CKV,1.56,44
+2,Crossville,Tennessee,CSV,2.87,43
+2,Knoxville,Tennessee,TYS,3.09,47
+2,Memphis,Tennessee,MEM,1.74,48
+2,Nashville,Tennessee,BNA,1.24,46
+2,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.62,25
+2,Chattanooga,Tennessee,CHA,0.02,35
+2,Clarksville,Tennessee,CKV,0.27,28
+2,Crossville,Tennessee,CSV,0.09,26
+2,Knoxville,Tennessee,TYS,0.14,29
+2,Memphis,Tennessee,MEM,0.11,39
+2,Nashville,Tennessee,BNA,0.28,31
+2,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,1.01,44
+2,Chattanooga,Tennessee,CHA,1.63,47
+2,Clarksville,Tennessee,CKV,0.88,47
+2,Crossville,Tennessee,CSV,3.83,45
+2,Knoxville,Tennessee,TYS,1.9,44
+2,Memphis,Tennessee,MEM,1.7,55
+2,Nashville,Tennessee,BNA,1.79,50
+2,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,1.27,43
+2,Chattanooga,Tennessee,CHA,2.67,49
+2,Clarksville,Tennessee,CKV,1.74,45
+2,Crossville,Tennessee,CSV,2.15,44
+2,Knoxville,Tennessee,TYS,1.99,46
+2,Memphis,Tennessee,MEM,2.03,48
+2,Nashville,Tennessee,BNA,1.15,47
+3,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.38,40
+3,Chattanooga,Tennessee,CHA,0.49,47
+3,Clarksville,Tennessee,CKV,0.53,41
+3,Crossville,Tennessee,CSV,0.57,41
+3,Knoxville,Tennessee,TYS,0.39,43
+3,Memphis,Tennessee,MEM,1.08,52
+3,Nashville,Tennessee,BNA,0.84,45
+3,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.08,60
+3,Chattanooga,Tennessee,CHA,0.79,63
+3,Clarksville,Tennessee,CKV,3.94,61
+3,Crossville,Tennessee,CSV,0.4,62
+3,Knoxville,Tennessee,TYS,1.13,63
+3,Memphis,Tennessee,MEM,10.58,63
+3,Nashville,Tennessee,BNA,1.88,65
+3,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.29,54
+3,Chattanooga,Tennessee,CHA,0.25,60
+3,Clarksville,Tennessee,CKV,0.25,53
+3,Crossville,Tennessee,CSV,0.19,54
+3,Knoxville,Tennessee,TYS,0.28,57
+3,Memphis,Tennessee,MEM,0.11,59
+3,Nashville,Tennessee,BNA,0.01,57
+3,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.15,52
+3,Chattanooga,Tennessee,CHA,0.99,57
+3,Clarksville,Tennessee,CKV,0.39,53
+3,Crossville,Tennessee,CSV,0.79,54
+3,Knoxville,Tennessee,TYS,0.52,55
+3,Memphis,Tennessee,MEM,0.24,56
+3,Nashville,Tennessee,BNA,0.92,55
+4,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.59,55
+4,Chattanooga,Tennessee,CHA,0.04,59
+4,Clarksville,Tennessee,CKV,0,52
+4,Crossville,Tennessee,CSV,0,48
+4,Knoxville,Tennessee,TYS,0.32,56
+4,Memphis,Tennessee,MEM,0,56
+4,Nashville,Tennessee,BNA,0,56
+4,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.51,46
+4,Chattanooga,Tennessee,CHA,0.65,54
+4,Clarksville,Tennessee,CKV,0.3,50
+4,Crossville,Tennessee,CSV,0.84,48
+4,Knoxville,Tennessee,TYS,0.71,50
+4,Memphis,Tennessee,MEM,0.37,61
+4,Nashville,Tennessee,BNA,0.27,52
+4,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.37,56
+4,Chattanooga,Tennessee,CHA,0.39,61
+4,Clarksville,Tennessee,CKV,0.51,59
+4,Crossville,Tennessee,CSV,0,59
+4,Knoxville,Tennessee,TYS,0.26,60
+4,Memphis,Tennessee,MEM,1.7,62
+4,Nashville,Tennessee,BNA,0.03,62
+4,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.56,62
+4,Chattanooga,Tennessee,CHA,0.25,67
+4,Clarksville,Tennessee,CKV,0.67,63
+4,Crossville,Tennessee,CSV,0.83,67
+4,Knoxville,Tennessee,TYS,0.49,67
+4,Memphis,Tennessee,MEM,1.73,68
+4,Nashville,Tennessee,BNA,0.22,67
+5,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.3,69
+5,Chattanooga,Tennessee,CHA,0,73
+5,Clarksville,Tennessee,CKV,0.06,70
+5,Crossville,Tennessee,CSV,0.01,73
+5,Knoxville,Tennessee,TYS,0.19,72
+5,Memphis,Tennessee,MEM,0.02,74
+5,Nashville,Tennessee,BNA,0,73
+5,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.31,60
+5,Chattanooga,Tennessee,CHA,0.6,65
+5,Clarksville,Tennessee,CKV,0.63,59
+5,Crossville,Tennessee,CSV,1.01,59
+5,Knoxville,Tennessee,TYS,0.56,63
+5,Memphis,Tennessee,MEM,0.3,64
+5,Nashville,Tennessee,BNA,0.46,62
+5,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,2.04,63
+5,Chattanooga,Tennessee,CHA,0.54,70
+5,Clarksville,Tennessee,CKV,1.43,64
+5,Crossville,Tennessee,CSV,0.18,63
+5,Knoxville,Tennessee,TYS,1.42,67
+5,Memphis,Tennessee,MEM,0.9,70
+5,Nashville,Tennessee,BNA,0.2,67
+5,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.93,62
+5,Chattanooga,Tennessee,CHA,0.27,68
+5,Clarksville,Tennessee,CKV,1.61,60
+5,Crossville,Tennessee,CSV,0.48,61
+5,Knoxville,Tennessee,TYS,0.51,65
+5,Memphis,Tennessee,MEM,1.09,67
+5,Nashville,Tennessee,BNA,1.42,63
+5,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.39,68
+5,Chattanooga,Tennessee,CHA,0.02,75
+5,Clarksville,Tennessee,CKV,1.55,72
+5,Crossville,Tennessee,CSV,0.16,69
+5,Knoxville,Tennessee,TYS,1.36,71
+5,Memphis,Tennessee,MEM,2.54,76
+5,Nashville,Tennessee,BNA,0.29,74
+6,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.91,74
+6,Chattanooga,Tennessee,CHA,0.93,78
+6,Clarksville,Tennessee,CKV,1.15,75
+6,Crossville,Tennessee,CSV,1.58,72
+6,Knoxville,Tennessee,TYS,3.11,76
+6,Memphis,Tennessee,MEM,0.25,80
+6,Nashville,Tennessee,BNA,1.51,78
+6,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0,70
+6,Chattanooga,Tennessee,CHA,0,77
+6,Clarksville,Tennessee,CKV,0,72
+6,Crossville,Tennessee,CSV,0,69
+6,Knoxville,Tennessee,TYS,0,74
+6,Memphis,Tennessee,MEM,0,80
+6,Nashville,Tennessee,BNA,0,75
+6,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.32,75
+6,Chattanooga,Tennessee,CHA,0.15,82
+6,Clarksville,Tennessee,CKV,0.58,80
+6,Crossville,Tennessee,CSV,0.89,74
+6,Knoxville,Tennessee,TYS,0.41,79
+6,Memphis,Tennessee,MEM,0.35,84
+6,Nashville,Tennessee,BNA,0.39,81
+6,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.39,76
+6,Chattanooga,Tennessee,CHA,0.12,83
+6,Clarksville,Tennessee,CKV,1.73,82
+6,Crossville,Tennessee,CSV,1.01,74
+6,Knoxville,Tennessee,TYS,0.65,80
+6,Memphis,Tennessee,MEM,0,87
+6,Nashville,Tennessee,BNA,2.01,83
+7,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.16,78
+7,Chattanooga,Tennessee,CHA,0,82
+7,Clarksville,Tennessee,CKV,0.33,77
+7,Crossville,Tennessee,CSV,1.07,73
+7,Knoxville,Tennessee,TYS,0.02,80
+7,Memphis,Tennessee,MEM,0,86
+7,Nashville,Tennessee,BNA,0.01,80
+7,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,1.3,77
+7,Chattanooga,Tennessee,CHA,1.12,83
+7,Clarksville,Tennessee,CKV,4.74,79
+7,Crossville,Tennessee,CSV,1.97,76
+7,Knoxville,Tennessee,TYS,3.71,80
+7,Memphis,Tennessee,MEM,2.41,85
+7,Nashville,Tennessee,BNA,4.7,82
+7,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.12,76
+7,Chattanooga,Tennessee,CHA,0.07,83
+7,Clarksville,Tennessee,CKV,1.52,79
+7,Crossville,Tennessee,CSV,1.35,75
+7,Knoxville,Tennessee,TYS,0.07,80
+7,Memphis,Tennessee,MEM,0.36,84
+7,Nashville,Tennessee,BNA,0.26,81
+7,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0,80
+7,Chattanooga,Tennessee,CHA,0.44,86
+7,Clarksville,Tennessee,CKV,0.41,82
+7,Crossville,Tennessee,CSV,0.59,79
+7,Knoxville,Tennessee,TYS,0,84
+7,Memphis,Tennessee,MEM,2.37,86
+7,Nashville,Tennessee,BNA,0,85
+7,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,1.31,81
+7,Chattanooga,Tennessee,CHA,0.87,84
+7,Clarksville,Tennessee,CKV,4.98,81
+7,Crossville,Tennessee,CSV,0.69,77
+7,Knoxville,Tennessee,TYS,1,83
+7,Memphis,Tennessee,MEM,2.88,84
+7,Nashville,Tennessee,BNA,1.31,83
+8,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.02,80
+8,Chattanooga,Tennessee,CHA,0.09,84
+8,Clarksville,Tennessee,CKV,2.63,81
+8,Crossville,Tennessee,CSV,0.3,77
+8,Knoxville,Tennessee,TYS,0.45,82
+8,Memphis,Tennessee,MEM,0,87
+8,Nashville,Tennessee,BNA,1.55,83
+8,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.01,81
+8,Chattanooga,Tennessee,CHA,0.05,84
+8,Clarksville,Tennessee,CKV,0.28,80
+8,Crossville,Tennessee,CSV,0.43,78
+8,Knoxville,Tennessee,TYS,0.78,83
+8,Memphis,Tennessee,MEM,0.32,86
+8,Nashville,Tennessee,BNA,0.87,82
+8,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,3.18,77
+8,Chattanooga,Tennessee,CHA,1.17,82
+8,Clarksville,Tennessee,CKV,2.49,77
+8,Crossville,Tennessee,CSV,2.32,75
+8,Knoxville,Tennessee,TYS,1,80
+8,Memphis,Tennessee,MEM,3.8,80
+8,Nashville,Tennessee,BNA,1.87,79
+8,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0,76
+8,Chattanooga,Tennessee,CHA,1.07,82
+8,Clarksville,Tennessee,CKV,0.49,78
+8,Crossville,Tennessee,CSV,0.94,75
+8,Knoxville,Tennessee,TYS,0.1,80
+8,Memphis,Tennessee,MEM,1.41,84
+8,Nashville,Tennessee,BNA,2.15,80
+9,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.61,70
+9,Chattanooga,Tennessee,CHA,0,81
+9,Clarksville,Tennessee,CKV,0,72
+9,Crossville,Tennessee,CSV,0,71
+9,Knoxville,Tennessee,TYS,0,77
+9,Memphis,Tennessee,MEM,0,80
+9,Nashville,Tennessee,BNA,0,77
+9,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0,74
+9,Chattanooga,Tennessee,CHA,0.25,81
+9,Clarksville,Tennessee,CKV,0.72,77
+9,Crossville,Tennessee,CSV,0.2,73
+9,Knoxville,Tennessee,TYS,0.35,79
+9,Memphis,Tennessee,MEM,0.58,83
+9,Nashville,Tennessee,BNA,0.31,80
+9,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,1.29,75
+9,Chattanooga,Tennessee,CHA,0.95,80
+9,Clarksville,Tennessee,CKV,0.57,76
+9,Crossville,Tennessee,CSV,0.62,73
+9,Knoxville,Tennessee,TYS,0.56,78
+9,Memphis,Tennessee,MEM,0.09,83
+9,Nashville,Tennessee,BNA,1.33,78
+9,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.07,73
+9,Chattanooga,Tennessee,CHA,0,79
+9,Clarksville,Tennessee,CKV,0,76
+9,Crossville,Tennessee,CSV,0.01,72
+9,Knoxville,Tennessee,TYS,0,78
+9,Memphis,Tennessee,MEM,0,82
+9,Nashville,Tennessee,BNA,0,78
+10,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0,63
+10,Chattanooga,Tennessee,CHA,0,67
+10,Clarksville,Tennessee,CKV,0.01,64
+10,Crossville,Tennessee,CSV,0,61
+10,Knoxville,Tennessee,TYS,0,65
+10,Memphis,Tennessee,MEM,0,69
+10,Nashville,Tennessee,BNA,0,67
+10,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.25,63
+10,Chattanooga,Tennessee,CHA,0,71
+10,Clarksville,Tennessee,CKV,0,68
+10,Crossville,Tennessee,CSV,0,64
+10,Knoxville,Tennessee,TYS,0,68
+10,Memphis,Tennessee,MEM,0.02,74
+10,Nashville,Tennessee,BNA,0,70
+10,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0,60
+10,Chattanooga,Tennessee,CHA,0,67
+10,Clarksville,Tennessee,CKV,0.05,64
+10,Crossville,Tennessee,CSV,0,63
+10,Knoxville,Tennessee,TYS,0,66
+10,Memphis,Tennessee,MEM,1.16,70
+10,Nashville,Tennessee,BNA,0.07,67
+10,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.47,61
+10,Chattanooga,Tennessee,CHA,0.08,67
+10,Clarksville,Tennessee,CKV,0.17,65
+10,Crossville,Tennessee,CSV,0.27,61
+10,Knoxville,Tennessee,TYS,0.14,66
+10,Memphis,Tennessee,MEM,0.03,68
+10,Nashville,Tennessee,BNA,0.36,66
+10,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.02,58
+10,Chattanooga,Tennessee,CHA,0,67
+10,Clarksville,Tennessee,CKV,0.01,63
+10,Crossville,Tennessee,CSV,0,62
+10,Knoxville,Tennessee,TYS,0.04,64
+10,Memphis,Tennessee,MEM,0.01,70
+10,Nashville,Tennessee,BNA,0,66
+11,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.06,58
+11,Chattanooga,Tennessee,CHA,0,66
+11,Clarksville,Tennessee,CKV,0,63
+11,Crossville,Tennessee,CSV,0,61
+11,Knoxville,Tennessee,TYS,0,64
+11,Memphis,Tennessee,MEM,0,68
+11,Nashville,Tennessee,BNA,0,66
+11,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.01,48
+11,Chattanooga,Tennessee,CHA,0,55
+11,Clarksville,Tennessee,CKV,0.02,50
+11,Crossville,Tennessee,CSV,0,49
+11,Knoxville,Tennessee,TYS,0,52
+11,Memphis,Tennessee,MEM,0.1,57
+11,Nashville,Tennessee,BNA,0.01,54
+11,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.09,46
+11,Chattanooga,Tennessee,CHA,0.01,53
+11,Clarksville,Tennessee,CKV,0.47,52
+11,Crossville,Tennessee,CSV,0.22,48
+11,Knoxville,Tennessee,TYS,0.16,51
+11,Memphis,Tennessee,MEM,0.57,56
+11,Nashville,Tennessee,BNA,0.13,55
+11,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.03,42
+11,Chattanooga,Tennessee,CHA,0.05,48
+11,Clarksville,Tennessee,CKV,0.12,44
+11,Crossville,Tennessee,CSV,0.01,44
+11,Knoxville,Tennessee,TYS,0.11,46
+11,Memphis,Tennessee,MEM,0.5,50
+11,Nashville,Tennessee,BNA,0.01,47
+12,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.59,39
+12,Chattanooga,Tennessee,CHA,1.42,44
+12,Clarksville,Tennessee,CKV,0.12,40
+12,Crossville,Tennessee,CSV,1.18,38
+12,Knoxville,Tennessee,TYS,1.32,42
+12,Memphis,Tennessee,MEM,0.49,46
+12,Nashville,Tennessee,BNA,0.42,43
+12,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,1.15,38
+12,Chattanooga,Tennessee,CHA,1.47,42
+12,Clarksville,Tennessee,CKV,1.35,35
+12,Crossville,Tennessee,CSV,1.97,35
+12,Knoxville,Tennessee,TYS,1.27,41
+12,Memphis,Tennessee,MEM,1.88,40
+12,Nashville,Tennessee,BNA,0.74,39
+12,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,1.57,38
+12,Chattanooga,Tennessee,CHA,1.3,43
+12,Clarksville,Tennessee,CKV,1.86,36
+12,Crossville,Tennessee,CSV,2.05,38
+12,Knoxville,Tennessee,TYS,2.28,41
+12,Memphis,Tennessee,MEM,1.94,41
+12,Nashville,Tennessee,BNA,2.39,39
+12,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,0.89,42
+12,Chattanooga,Tennessee,CHA,0.02,47
+12,Clarksville,Tennessee,CKV,0.53,39
+12,Crossville,Tennessee,CSV,0.78,41
+12,Knoxville,Tennessee,TYS,0.64,43
+12,Memphis,Tennessee,MEM,2.18,45
+12,Nashville,Tennessee,BNA,2.17,44
+1,Bristol/Jhnsn Cty/Kngsprt,Tennessee,TRI,1.16,42
+1,Chattanooga,Tennessee,CHA,0.84,47
+1,Clarksville,Tennessee,CKV,1.78,46
+1,Crossville,Tennessee,CSV,1.09,43
+1,Knoxville,Tennessee,TYS,1.45,46
+1,Memphis,Tennessee,MEM,0.84,51
+1,Nashville,Tennessee,BNA,1.22,50
