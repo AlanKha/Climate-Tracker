@@ -23,9 +23,9 @@ To compile and run Climate Tracker, follow these steps:
    ```
 3. Compile the source files:
    ```bash
-   g++ Prog2.cpp Support.cpp -o ClimateTracker
+   g++ Prog1.cpp Support.cpp -o ClimateTracker
    ```
 4. Run the executable:
    ```bash
-   ./ClimateTracker < datafile.csv
+   ./ClimateTracker [-rawdata] datafile.csv
    ```
